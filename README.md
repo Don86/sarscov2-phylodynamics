@@ -5,7 +5,7 @@
 
 ### Details
 
-* Data obtained (manually) from GISAID
+* Data obtained (manually) from GISAID: n = 1002 full genome, high coverage sequences (excluding low coverage) sequences. There will be many, many more as the days go by. 
 * Aligned with `MAFFT` and checked with `Tempest`
 * Initial tree computed using `FastTree`
 * Timed tree computed using the `treetime` webserver, which is presumably faster than my laptop
